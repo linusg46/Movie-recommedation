@@ -67,9 +67,10 @@ Before applying machine learning models, the dataset underwent a thorough data w
 <br>Outlier Handling: </br>Outliers, which could affect the model's performance, were identified and removed.
 
 ## Modeling
-1.<br>Collaborative filtering model(user_item_matrix)</br>-It represents the interactions or preferences of users for items in a matrix format, where rows correspond to users, columns correspond to items, and the entries in the matrix represent user-item interactions or ratings
 
-2.<br>SVD</br>SVD decomposes a matrix into three other matrices, which together capture the essential information and relationships within the original matrix.
+<br>1.Collaborative filtering model(user_item_matrix)</br>-It represents the interactions or preferences of users for items in a matrix format, where rows correspond to users, columns correspond to items, and the entries in the matrix represent user-item interactions or ratings
+
+<br>2.SVD</br>SVD decomposes a matrix into three other matrices, which together capture the essential information and relationships within the original matrix.
 
 ## Conclusion
 In summary, customers' experiences watching movies could be greatly improved by the creation and application of a movie recommendation model. Such a model may precisely forecast and suggest movies that match users' preferences and interests by utilizing cutting-edge machine learning algorithms and data analysis approaches.Users can find new films through this methodology that they might not have otherwise seen, making for a more interesting and entertaining cinematic trip. 
@@ -79,3 +80,6 @@ In summary, customers' experiences watching movies could be greatly improved by 
 - Recommedation models should try to avoid The "filter bubble" effect, in which viewers are only exposed to content that confirms their previous inclinations, could offer difficulties for it by potentially limiting their exposure to a range of cinematic experiences. <br>
 - Collecting and use of personal data can create ethical and privacy problems, user privacy and data security should be the top priorities when implementing such a model.
 - The development and implementation of movie recommendation models must be done responsibly, with careful consideration of user privacy and a commitment to promote a variety of cinematic experiences. Movie recommendation models have the potential to revolutionize how we discover and enjoy movies.
+
+## Non-presentation
+Here is a link to a canva presenation of the study: https://docs.google.com/presentation/d/1haV5KSU7ksOawbamx52IF-YZqTTF5YA5FxOBawtBy0I/edit?usp=sharing
